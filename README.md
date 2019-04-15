@@ -30,7 +30,7 @@ Change the method of Exercise 2 to return an empty array if the method *dataServ
 ## Exercise 4
 
 Create a single HTML file, including the necessary CSS inside the <style> tags, representing the following webpage:
-  !html-mockup.png!
+![Webpage](https://raw.githubusercontent.com/algebrik/web-basic-assessment/master/html-mockup.png)
 
 ## Exercise 5
 
